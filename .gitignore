@@ -1,0 +1,9 @@
+# Full saved copies of On The Stage pages: keep local, don't publish.
+event2.html
+event2.pretty.html
+# Local default output (the published feed is docs/waldo.ics).
+/waldo.ics
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store

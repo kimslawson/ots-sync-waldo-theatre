@@ -1,0 +1,50 @@
+# Rebuilds docs/waldo.ics every 6 hours and commits it only when it changed.
+# GitHub Pages (Settings > Pages > "Deploy from a branch", main, /docs) then
+# serves it at https://<user>.github.io/<repo>/waldo.ics
+#
+# If the tests or the script fail (site down, layout change), the job fails, nothing is
+# committed, the last good feed stays up, and GitHub emails the repo owner.
+name: Update calendar feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 h, off the hour (UTC)
+  workflow_dispatch: {}      # "Run workflow" button for manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Test
+        run: python3 -m unittest discover -s tests
+
+      - name: Build feed
+        run: >
+          python3 ots_ics.py https://www.onthestage.tickets/the-waldo-theatre
+          --about --durations durations.json
+          --state state.json --out docs/waldo.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # GitHub disables scheduled workflows in public repos after 60 days
+          # without activity; touch a heartbeat file if we're getting close.
+          if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 3888000 ]; then
+            date -u +%FT%TZ > docs/last-checked.txt
+          fi
+          git add docs/ state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update calendar feed"
+            git push
+          fi

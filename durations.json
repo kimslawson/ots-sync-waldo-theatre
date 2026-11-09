@@ -1,0 +1,4 @@
+{
+  "_comment": "Per-production event length in minutes, keyed by the 24-hex show id from /show/the-waldo-theatre/<id>. Wins over a run time found on the show's /about page and over the 120-minute default.",
+  "_example_6abc208819e3f437fa92556d": 120
+}
