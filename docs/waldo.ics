@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ots-ics//On The Stage show pages//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Waldo Theatre
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:6aa949218ac7d8024a6ddf37@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261107T003000Z
+DTEND:20261107T023000Z
+SUMMARY:Puss N Boots featuring Norah Jones\, Sasha Dobson and Catherine Pop
+ per
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6a9ab9b7f70818786
+ 5f44851/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6a9ab9b7f708187865f44851/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec5580206fcf2b9f2d2@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec5580206fcf2b9f2d9@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261108T210000Z
+DTEND:20261108T230000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ace7bc81b3bec2df20a1bca@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261112T233000Z
+DTEND:20261113T013000Z
+SUMMARY:Top Hat starring Fred Astaire and Ginger Rogers
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ace36dd86a0211f2
+ 256e385/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ace36dd86a0211f2256e385/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec6580206fcf2b9f2e0@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec6580206fcf2b9f2e7@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abfe547653add760f5c4162@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Georgia O'Keeffe: The Brightness of Light
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abd40b044487bdaf
+ 050e951/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abd40b044487bdaf050e951/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec6580206fcf2b9f2f0@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad8e1d7cc6d474b79926fe9@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261121T230000Z
+DTEND:20261122T010000Z
+SUMMARY:Waldoboro Talent Show 2026
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ad7be17cc6d474b7
+ 969cf6c/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ad7be17cc6d474b7969cf6c/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd8ec6580206fcf2b9f2f7@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:An Addition of One
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abc208819e3f437f
+ a92556d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abc208819e3f437fa92556d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abfe55e2557c02072e5674c@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261127T233000Z
+DTEND:20261128T012700Z
+SUMMARY:Martin Scorsese's The Last Waltz
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abd41e844487bdaf
+ 0511966/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abd41e844487bdaf0511966/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6abfe5702557c02072e56b5a@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261202T233000Z
+DTEND:20261203T005100Z
+SUMMARY:In the Whale: The Greatest Fish Story Ever Told
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abd429c51ee69653
+ 2237eab/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abd429c51ee696532237eab/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab731bb17bb5c779c9941bf@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261205T200000Z
+DTEND:20261205T220000Z
+SUMMARY:Adam Ezra Group
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6aa8079f81cca249c
+ 79c01d2/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6aa8079f81cca249c79c01d2/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab731bb17bb5c779c9941c6@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+SUMMARY:Adam Ezra Group
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6aa8079f81cca249c
+ 79c01d2/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6aa8079f81cca249c79c01d2/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae3c6fb970a772e81eb6917@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261209T233000Z
+DTEND:20261210T013000Z
+SUMMARY:The Waldo's 90th Anniversary Show
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ae22774829e999c8
+ 4a5f511/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ae22774829e999c84a5f511/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad01240988f51af1d1526f0@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261213T003000Z
+DTEND:20261213T023000Z
+SUMMARY:Acoustica: A Tribute to MTV UNPLUGGED
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6acf737131a568578
+ 1a0fa4b/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6acf737131a5685781a0fa4b/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad8eb56b681c5cc9cad2529@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261213T180000Z
+DTEND:20261213T200000Z
+SUMMARY:The Muppet Christmas Carol
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ad7c0c2cc6d474b7
+ 96a4f3d/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ad7c0c2cc6d474b796a4f3d/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6aeccd4451a5a561d9e9cea4@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20261216T233000Z
+DTEND:20261217T013000Z
+SUMMARY:2026 Sundance Shorts
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6abd438651ee69653
+ 223f563/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6abd438651ee69653223f563/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae0aedde405ef55a000649f@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20270124T003000Z
+DTEND:20270124T023000Z
+SUMMARY:Late Nite Catechism
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6adf8b431e0394c06
+ 02c501e/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6adf8b431e0394c0602c501e/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae9bb69185ff5584fdc1ece@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20270131T003000Z
+DTEND:20270131T023000Z
+SUMMARY:Choir! Choir! Choir! Presents: Mamma Mia: An EPIC ABBA Sing-Along
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ad915f0cc6d474b7
+ 99f2d50/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ad915f0cc6d474b799f2d50/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae3b2314fe4674aea052cb6@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20270213T003000Z
+DTEND:20270213T023000Z
+SUMMARY:Valentease! A Very Valentine’s Burlesque Show
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6ae1e629545ce9891
+ 01c43d7/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6ae1e629545ce989101c43d7/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab452cdd51f7c91f0aa9913@onthestage.tickets
+DTSTAMP:20261109T212755Z
+DTSTART:20270214T003000Z
+DTEND:20270214T023000Z
+SUMMARY:Gabe Dixon with Special Guest Michael Dutton
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+URL:https://www.onthestage.tickets/show/the-waldo-theatre/6a96cd9090a91685e
+ 86314c5/tickets
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6a96cd9090a91685e86314c5/tickets
+END:VEVENT
+END:VCALENDAR
