@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "_note": "Page-structure baseline for ots_ics.py --structure. Regenerate with --accept-structure after checking a reported change.",
+ "lines": [
+  "about: about text: div.row > div.col-sm-12 > div#production-about",
+  "about: meta: og:title",
+  "about: show link: div.topbar > div.hidden-xs.pull-right > a.btn.btn-success.btn-tickets.top-btn-tickets",
+  "about: show link: ul > li > a",
+  "about: show link: ul#navigation.center.nav.navbar-nav > li > a",
+  "about: show link: ul.clearfix.hide-print.rrssb-buttons > li.rrssb-facebook > a.popup",
+  "about: show link: ul.clearfix.hide-print.rrssb-buttons > li.rrssb-twitter > a.popup",
+  "about: show link: ul.dropdown-menu > li > a",
+  "org: show link: div.shows > div.show > a",
+  "show: calendar: div.home > div.home-tickets > div.home-calendar",
+  "show: calendar: div.home > div.home-tickets.visible-xs > div.home-calendar",
+  "show: date text: A. A 9A 9, 9:9 A",
+  "show: event element: div.home-tickets > div.home-calendar > div.event-date [data-eventid]",
+  "show: event element: div.home-tickets.visible-xs > div.home-calendar > div.event-date [data-eventid]",
+  "show: meta: og:title",
+  "show: show link: div.home > div.home-tickets > a.btn.btn-lg.btn-tickets",
+  "show: show link: div.home > div.home-tickets.visible-xs > a.btn.btn-lg.btn-tickets",
+  "show: show link: div.topbar > div.hidden-xs.pull-right > a.btn.btn-success.btn-tickets.top-btn-tickets",
+  "show: show link: ul > li > a",
+  "show: show link: ul#navigation.center.nav.navbar-nav > li > a",
+  "show: show link: ul.dropdown-menu > li > a",
+  "show: title: div.home > div.home-tickets > h1.home-tickets-title.uppercase",
+  "show: title: div.home > div.home-tickets.visible-xs > h1.home-tickets-title.uppercase"
+ ]
+}
