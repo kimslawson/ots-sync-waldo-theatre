@@ -11,8 +11,8 @@ On The Stage and refreshed every 6 hours.
   own schedule, often 12–24 hours.
 - **Outlook:** Add calendar > Subscribe from web.
 
-Unofficial; not affiliated with The Waldo Theatre or On The Stage. Always check
-the ticket link in each event for current details.
+Unofficial; not affiliated with On The Stage. Always check the ticket link in
+each event for current details.
 
 ## How it works
 
