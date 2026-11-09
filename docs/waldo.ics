@@ -209,6 +209,16 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6ad915f0cc6d474b799f2d50/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:6af2473ef1138a6be3855ffd@onthestage.tickets
+DTSTAMP:20261109T233847Z
+DTSTART:20270207T003000Z
+DTEND:20270207T023000Z
+SUMMARY:Bearly Dead
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6af24643708d56eb73bd9e40/tickets
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae3b2314fe4674aea052cb6@onthestage.tickets
 DTSTAMP:20261109T212755Z
 DTSTART:20270213T003000Z
