@@ -49,26 +49,6 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6ace36dd86a0211f2256e385/tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:6abd8ec6580206fcf2b9f2e0@onthestage.tickets
-DTSTAMP:20261109T212755Z
-DTSTART:20261114T000000Z
-DTEND:20261114T020000Z
-SUMMARY:An Addition of One
-LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
-DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
- 6abc208819e3f437fa92556d/tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:6abd8ec6580206fcf2b9f2e7@onthestage.tickets
-DTSTAMP:20261109T212755Z
-DTSTART:20261114T210000Z
-DTEND:20261114T230000Z
-SUMMARY:An Addition of One
-LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
-DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
- 6abc208819e3f437fa92556d/tickets
-END:VEVENT
-BEGIN:VEVENT
 UID:6abfe547653add760f5c4162@onthestage.tickets
 DTSTAMP:20261109T212755Z
 DTSTART:20261115T190000Z
@@ -79,16 +59,6 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6abd40b044487bdaf050e951/tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:6abd8ec6580206fcf2b9f2f0@onthestage.tickets
-DTSTAMP:20261109T212755Z
-DTSTART:20261119T000000Z
-DTEND:20261119T020000Z
-SUMMARY:An Addition of One
-LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
-DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
- 6abc208819e3f437fa92556d/tickets
-END:VEVENT
-BEGIN:VEVENT
 UID:6ad8e1d7cc6d474b79926fe9@onthestage.tickets
 DTSTAMP:20261109T212755Z
 DTSTART:20261121T230000Z
@@ -97,16 +67,6 @@ SUMMARY:Waldoboro Talent Show 2026
 LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
 DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6ad7be17cc6d474b7969cf6c/tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:6abd8ec6580206fcf2b9f2f7@onthestage.tickets
-DTSTAMP:20261109T212755Z
-DTSTART:20261122T210000Z
-DTEND:20261122T230000Z
-SUMMARY:An Addition of One
-LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
-DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
- 6abc208819e3f437fa92556d/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:6abfe55e2557c02072e5674c@onthestage.tickets
