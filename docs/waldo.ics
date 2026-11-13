@@ -149,6 +149,16 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6abd438651ee69653223f563/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:6af62a953826839b74dce743@onthestage.tickets
+DTSTAMP:20261113T064819Z
+DTSTART:20261219T210000Z
+DTEND:20261219T230000Z
+SUMMARY:In Transit
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6af607153826839b74d28a1f/tickets
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae0aedde405ef55a000649f@onthestage.tickets
 DTSTAMP:20261109T212755Z
 DTSTART:20270124T003000Z

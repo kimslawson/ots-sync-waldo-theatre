@@ -170,6 +170,15 @@
    "start": "20270207T003000Z",
    "title": "Bearly Dead",
    "url": "https://www.onthestage.tickets/show/the-waldo-theatre/6af24643708d56eb73bd9e40/tickets"
+  },
+  "6af62a953826839b74dce743": {
+   "end": "20261219T230000Z",
+   "location": "The Waldo Theatre, 916 Main Street, Waldoboro, ME 04572",
+   "show": "6af607153826839b74d28a1f",
+   "stamp": "20261113T064819Z",
+   "start": "20261219T210000Z",
+   "title": "In Transit",
+   "url": "https://www.onthestage.tickets/show/the-waldo-theatre/6af607153826839b74d28a1f/tickets"
   }
  },
  "version": 1
