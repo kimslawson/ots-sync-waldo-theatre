@@ -60,10 +60,10 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
 END:VEVENT
 BEGIN:VEVENT
 UID:6ad8e1d7cc6d474b79926fe9@onthestage.tickets
-DTSTAMP:20261109T212755Z
+DTSTAMP:20261114T222533Z
 DTSTART:20261121T230000Z
 DTEND:20261122T010000Z
-SUMMARY:Waldoboro Talent Show 2026
+SUMMARY:Waldoboro Talent Show
 LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
 DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6ad7be17cc6d474b7969cf6c/tickets
