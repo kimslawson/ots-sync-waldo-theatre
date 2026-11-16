@@ -179,6 +179,17 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6ad915f0cc6d474b799f2d50/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:6afb52e644efeaf7fba06c3f@onthestage.tickets
+DTSTAMP:20261116T220407Z
+DTSTART:20270131T190000Z
+DTEND:20270131T210000Z
+SUMMARY:The Rock and Roll Playhouse Presents: The Music of The Beatles! at 
+ CLC YMCA
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6af38d19f39f518ee43d2684/tickets
+END:VEVENT
+BEGIN:VEVENT
 UID:6af2473ef1138a6be3855ffd@onthestage.tickets
 DTSTAMP:20261109T233847Z
 DTSTART:20270207T003000Z
@@ -207,5 +218,15 @@ SUMMARY:Gabe Dixon with Special Guest Michael Dutton
 LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
 DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6a96cd9090a91685e86314c5/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:6afb1b7a7f89ef66eeef717c@onthestage.tickets
+DTSTAMP:20261116T220407Z
+DTSTART:20270320T233000Z
+DTEND:20270321T013000Z
+SUMMARY:The Walker Roaders
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6adb4bb0bf6b1e0fa4741e0a/tickets
 END:VEVENT
 END:VCALENDAR

@@ -179,6 +179,24 @@
    "start": "20261219T210000Z",
    "title": "In Transit",
    "url": "https://www.onthestage.tickets/show/the-waldo-theatre/6af607153826839b74d28a1f/tickets"
+  },
+  "6afb1b7a7f89ef66eeef717c": {
+   "end": "20270321T013000Z",
+   "location": "The Waldo Theatre, 916 Main Street, Waldoboro, ME 04572",
+   "show": "6adb4bb0bf6b1e0fa4741e0a",
+   "stamp": "20261116T220407Z",
+   "start": "20270320T233000Z",
+   "title": "The Walker Roaders",
+   "url": "https://www.onthestage.tickets/show/the-waldo-theatre/6adb4bb0bf6b1e0fa4741e0a/tickets"
+  },
+  "6afb52e644efeaf7fba06c3f": {
+   "end": "20270131T210000Z",
+   "location": "The Waldo Theatre, 916 Main Street, Waldoboro, ME 04572",
+   "show": "6af38d19f39f518ee43d2684",
+   "stamp": "20261116T220407Z",
+   "start": "20270131T190000Z",
+   "title": "The Rock and Roll Playhouse Presents: The Music of The Beatles! at CLC YMCA",
+   "url": "https://www.onthestage.tickets/show/the-waldo-theatre/6af38d19f39f518ee43d2684/tickets"
   }
  },
  "version": 1
