@@ -229,4 +229,14 @@ LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
 DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6adb4bb0bf6b1e0fa4741e0a/tickets
 END:VEVENT
+BEGIN:VEVENT
+UID:6afdc012467b5ab3cf9a8e14@onthestage.tickets
+DTSTAMP:20261118T203337Z
+DTSTART:20270717T233000Z
+DTEND:20270718T013000Z
+SUMMARY:BONNIE ‘PRINCE’ BILLY
+LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
+DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
+ 6afafe6ce495d416479f8f52/tickets
+END:VEVENT
 END:VCALENDAR
