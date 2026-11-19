@@ -231,10 +231,11 @@ DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
 END:VEVENT
 BEGIN:VEVENT
 UID:6afdc012467b5ab3cf9a8e14@onthestage.tickets
-DTSTAMP:20261118T203337Z
+DTSTAMP:20261119T072731Z
 DTSTART:20270717T233000Z
 DTEND:20270718T013000Z
-SUMMARY:BONNIE ‘PRINCE’ BILLY
+SUMMARY:Bonnie "Prince" Billy with Special Guests Tim Eriksen & Peter Irvin
+ e
 LOCATION:The Waldo Theatre\, 916 Main Street\, Waldoboro\, ME 04572
 DESCRIPTION:Tickets: https://www.onthestage.tickets/show/the-waldo-theatre/
  6afafe6ce495d416479f8f52/tickets
