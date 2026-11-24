@@ -74,6 +74,99 @@ To check that alerts reach you, run the workflow with **Fail on purpose to
 test the alert email** ticked. It doesn't contact On The Stage. Then run it
 normally to close the issue.
 
+## Subscribe button on the theatre's site
+
+The footer of thewaldotheatre.org has a "Subscribe to our calendar" button
+that opens the feed as a `webcal://` link. It's a Wix **Embed HTML** element,
+because a native Wix button won't take a `webcal://` link. Wix Analytics can't
+see clicks inside an embed, so clicks are counted with
+[GoatCounter](https://www.goatcounter.com/) at
+<https://waldocal.goatcounter.com/>, as the event `calendar-subscribe`. It
+counts clicks, not completed subscriptions, and ad blockers make it undercount.
+
+The embed's code lives only in Wix. This is a copy:
+
+<details>
+<summary>Embed HTML</summary>
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: transparent;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .calendar-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 22px;
+      background-color: #ffffff;
+      color: #111111;
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 6px;
+      transition: background-color 0.2s ease, transform 0.1s ease;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    }
+    .calendar-btn:hover {
+      background-color: #e0e0e0;
+      transform: translateY(-1px);
+    }
+    .calendar-btn:active {
+      transform: translateY(0);
+    }
+    .calendar-icon {
+      width: 18px;
+      height: 18px;
+      fill: currentColor;
+    }
+  </style>
+</head>
+<body>
+  <a class="calendar-btn" href="webcal://kimslawson.github.io/ots-sync-waldo-theatre/waldo.ics" target="_top"
+     data-goatcounter-click="calendar-subscribe"
+     data-goatcounter-title="Calendar subscribe button (footer)">
+    <svg class="calendar-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z"/>
+    </svg>
+    Subscribe to our calendar
+  </a>
+
+  <script data-goatcounter="https://waldocal.goatcounter.com/count"
+          data-goatcounter-settings='{"no_onload": true, "allow_frame": true}'
+          async src="//gc.zgo.at/count.js"
+          onload="goatcounter.bind_events()"></script>
+</body>
+</html>
+```
+
+</details>
+
+Things that aren't obvious:
+
+- `allow_frame` is required: GoatCounter ignores pages inside an iframe by
+  default, and a Wix embed is one.
+- `no_onload` stops every page load from counting as a view, but it also stops
+  GoatCounter from attaching the click handlers. The
+  `onload="goatcounter.bind_events()"` attaches them; without it clicks
+  silently aren't counted.
+- If the feed URL ever changes, update the `href` here and in Wix.
+- To track a button somewhere else, copy the embed and give it a different
+  `data-goatcounter-click` name so the dashboard keeps them apart.
+- To debug: in Chrome DevTools > Network, filter on `zgo|goatcounter`, scroll
+  to the footer (Wix may load the embed only then), and click. A `count?p=...`
+  request of type **ping** should appear.
+
 ## Running locally
 
 ```sh
